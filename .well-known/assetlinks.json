@@ -1,0 +1,16 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.kssilveira.twa",
+      "sha256_cert_fingerprints": [
+        "F6:6B:13:D0:3F:8A:BD:B6:58:A8:B2:63:D3:B1:9B:D1:37:5B:3F:2C:DA:15:25:48:77:57:31:EE:F7:9E:97:A5",
+        "C1:56:4F:81:4C:EF:D4:6B:18:7F:F2:78:03:A4:18:77:72:CE:5A:9F:0F:58:29:5A:36:9A:A8:52:5D:6B:5E:96",
+        "58:27:9F:A7:E7:5A:9D:49:41:A3:47:5D:4B:FD:BB:34:B9:35:9E:78:6B:9F:45:FB:C3:B9:B5:6A:92:A3:08:38"
+      ]
+    }
+  }
+]
